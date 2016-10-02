@@ -1,7 +1,9 @@
 # Kasper
 
-> This is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll. 
+> This is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll.
 Feel free to fork, change, modify and re-use it.
+
+> I just made some minor changes to enhance data privacy. No *disqus* and no *gogle analytics*! Fonts are no more served by a cdn.
 
 ## Installation
 
@@ -24,20 +26,20 @@ Build page into `_site` folder
 
 * Pagination
 * Rss
-* Google Analytics Tracking code
+* ~~Google Analytics Tracking code~~
 * Code Syntax Highlight
 * Author's profile with picture
-* Disqus comments
+* ~~Disqus comments~~
 
 ## Screenshots
 
-![index page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-index.png)
-![post page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-post.png)
+![index page](https://raw.github.com/thacoon/kasper/master/assets/images/kasper-theme-index.png)
+![post page](https://raw.github.com/thacoon/kasper/master/assets/images/kasper-theme-post.png)
 
 
 ## Thanks
 
-Most of the work has been already done by the Ghost team, I've just ported Casper to Jekyll. 
+Most of the work has been already done by the Ghost team, I've just ported Casper to Jekyll.
 I've also added few things specific to Jekyll and some minor style changes.
 
 ## Copyright & License

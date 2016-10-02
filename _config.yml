@@ -7,8 +7,8 @@ highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'http://yourblog-domain.com'  # change to use your domain name
+https: false  # also change domain_name to 'https://yourblog.com'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
