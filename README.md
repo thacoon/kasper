@@ -3,7 +3,9 @@
 > This is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll.
 Feel free to fork, change, modify and re-use it.
 
-> I just made some minor changes to enhance data privacy. No *disqus* and no *gogle analytics*! Fonts are no more served by a cdn.
+> I just made some minor changes to enhance data privacy. No *disqus* and no *gogle analytics*!
+Fonts are no more served by a cdn.
+In the *_config.yml* you can now set `https` to true and the user gets redirected to the https site if javascript is enabled. Then you should also change the `domain_name` to use `https://yourblog.com`
 
 ## Installation
 
