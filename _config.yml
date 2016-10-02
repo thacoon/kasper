@@ -7,10 +7,9 @@ highlighter: pygments
 logo: false
 paginate: 15
 baseurl: /kasper/
-domain_name: 'https://thacoon.github.io/kasper/'  # change to use your domain name
-https: true  # also change domain_name to 'https://yourblog.com'
+domain_name: 'http://thacoon.github.io/kasper/'  # change to use your domain name
+https: false  # also change domain_name to 'https://yourblog.com'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'blog url'
 author:         'Your Name'
