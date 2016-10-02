@@ -6,7 +6,7 @@ markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: /
+baseurl: /kasper/
 domain_name: 'https://thacoon.github.io/kasper/'  # change to use your domain name
 https: true  # also change domain_name to 'https://yourblog.com'
 gems: [jekyll-paginate]
